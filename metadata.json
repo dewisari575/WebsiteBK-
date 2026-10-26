@@ -1,0 +1,6 @@
+{
+  "name": "BK SMA Muhammadiyah 1 Palangkaraya - Dewi Kumala Sari, S.Pd.",
+  "description": "Portofolio & Layanan Bimbingan Konseling Digital SMA Muhammadiyah 1 Palangkaraya oleh Dewi Kumala Sari, S.Pd. Layanan konsultasi siswa, perencanaan karir Kurikulum Merdeka, dan administrasi RPL BK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

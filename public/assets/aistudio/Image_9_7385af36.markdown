@@ -1,0 +1,246 @@
+---
+name: Serene Guidance & Counseling Portfolio
+colors:
+  surface: '#fbf9f3'
+  surface-dim: '#dcdad4'
+  surface-bright: '#fbf9f3'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f5f3ed'
+  surface-container: '#f0eee8'
+  surface-container-high: '#eae8e2'
+  surface-container-highest: '#e4e2dd'
+  on-surface: '#1b1c18'
+  on-surface-variant: '#424844'
+  inverse-surface: '#30312d'
+  inverse-on-surface: '#f3f1eb'
+  outline: '#727974'
+  outline-variant: '#c1c8c3'
+  surface-tint: '#476558'
+  primary: '#163328'
+  on-primary: '#ffffff'
+  primary-container: '#2d4a3e'
+  on-primary-container: '#99b9a9'
+  inverse-primary: '#adcebe'
+  secondary: '#46654d'
+  on-secondary: '#ffffff'
+  secondary-container: '#c5e9ca'
+  on-secondary-container: '#4b6a51'
+  tertiary: '#3c2c00'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#574100'
+  on-tertiary-container: '#d5ac48'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#c9ead9'
+  primary-fixed-dim: '#adcebe'
+  on-primary-fixed: '#022016'
+  on-primary-fixed-variant: '#304d40'
+  secondary-fixed: '#c8ebcc'
+  secondary-fixed-dim: '#adcfb1'
+  on-secondary-fixed: '#03210e'
+  on-secondary-fixed-variant: '#2f4d37'
+  tertiary-fixed: '#ffdf99'
+  tertiary-fixed-dim: '#ecc15a'
+  on-tertiary-fixed: '#251a00'
+  on-tertiary-fixed-variant: '#5a4300'
+  background: '#fbf9f3'
+  on-background: '#1b1c18'
+  surface-variant: '#e4e2dd'
+typography:
+  headline-xl:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 44px
+    fontWeight: '700'
+    lineHeight: 54px
+    letterSpacing: -0.02em
+  headline-xl-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 30px
+    fontWeight: '700'
+    lineHeight: 38px
+    letterSpacing: -0.015em
+  headline-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 32px
+    fontWeight: '700'
+    lineHeight: 40px
+    letterSpacing: -0.015em
+  headline-lg-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 24px
+    fontWeight: '700'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+  body-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+  body-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 24px
+  body-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 20px
+  label-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  label-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 12px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.02em
+  label-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 11px
+    fontWeight: '500'
+    lineHeight: 14px
+    letterSpacing: 0.03em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 1rem
+  margin: 2.5rem
+  margin-mobile: 1.25rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+### Personality & Emotional Response
+The design system embodies empathy, reassurance, academic credibility, and discreet approachability. Designed for SMA Muhammadiyah 1 Palangkaraya's Guidance and Counseling (BK) unit under Ibu Dewi Kumala Sari, S.Pd., the interface balances two critical user profiles:
+1. **Students (Gen Z high schoolers):** Who require a non-intimidating, safe, non-judgmental space to explore career aspirations, self-development, and psychological counseling without stigma.
+2. **School Leadership, Parents, and Accreditation Assessors:** Who demand structural rigor, accountability, systematic documentation under *Kurikulum Merdeka*, and professional Islamic institutional integrity.
+
+### Aesthetic Movement
+The aesthetic synthesizes **Soft Organic Minimalism** with **Warm Academic Editorialism**. It eschews sterile institutional blues and cold grays in favor of biophilic sage tones and warm paper-like surfaces. Subtle botanical/structural grounding, human-scale typography, and low-contrast borders foster emotional safety, focus, and transparency.
+
+## Colors
+
+### Palette Strategy
+The color system operates strictly in light mode to preserve clarity, warmth, and visual comfort.
+
+- **Primary (`#2D4A3E` - Deep Forest Green):** Anchors institutional authority, trust, and academic grounding. Used for principal navigation bars, dominant heading titles, primary action buttons, and critical status labels.
+- **Secondary (`#608066` - Sage Green):** Evokes emotional regulation, calm, balance, and growth. Applied to interactive focus states, secondary buttons, subheadings, active pill chips, and supportive illustrations.
+- **Tertiary (`#C29B38` - Subtle Muhammadiyah Gold):** A respectful, controlled nod to the solar insignia of Muhammadiyah. Utilized sparingly for achievement badges, accreditation highlights, urgent announcements, and starred evaluation metrics.
+- **Neutral Surface Foundation (`#F8F6F0` to `#FAF9F5` - Warm Cream / Parchment):** Prevents the clinical glare of stark white (`#FFFFFF`). White is reserved exclusively for elevated card surfaces to create gentle visual stepping without deep shadows.
+- **Text & Contrast:** Primary text rests on `#1A2821` (Deep Pine Charcoal) for high legibility (AAA contrast), while muted descriptive copy uses `#4F5E56`.
+
+## Typography
+
+### Typographic Rationale
+**Plus Jakarta Sans** is selected as the unified typeface family across display, body, and UI labels. Developed in Indonesia, its modern geometric architecture with open counters and soft terminals strikes a balanced intersection:
+- Welcoming, contemporary, and friendly enough for adolescent students navigating confidential counseling appointments.
+- Impeccably structured, highly legible, and crisp for formal school assessment reports, *Kurikulum Merdeka* operational plans (RPL BK), and administrative ledgers.
+
+### Scale Rules
+- Maintain generous line-heights (`1.5` to `1.6` on body copy) to maintain a calming, unhurried cadence.
+- Headings use optical kerning with subtle negative letter spacing (`-0.01em` to `-0.02em`) to ensure title lockups feel cohesive and deliberate.
+- Captions and metadata labels utilize clean uppercase or semi-bold sentence case with light positive tracking for fast scannability.
+
+## Layout & Spacing
+
+### Grid Architecture
+- **Desktop (>= 1024px):** 12-column responsive fluid grid inside a centered max-width container of `1200px`. Gutters are fixed at `1.5rem` (`24px`), with outer canvas padding set to `2.5rem` (`40px`).
+- **Tablet (768px - 1023px):** 8-column grid with `1.25rem` (`20px`) gutters and `2rem` (`32px`) margins. Sidebar schedules and counseling dossiers transition to stacked layouts.
+- **Mobile (< 768px):** 4-column layout with `1rem` (`16px`) gutters and `1.25rem` (`20px`) margin gutters.
+
+### Rhythm & Vertical Cadence
+Spacing relies strictly on an 8-point base rhythm. Section padding prioritizes breathing room (`4rem` to `6rem` vertical margins between sections) to preserve psychological spaciousness, reducing anxiety when users read sensitive consultation procedures or crisis intervention hotlines.
+
+## Elevation & Depth
+
+### Philosophy: Tonal Surfaces over Heavy Drop Shadows
+To reflect honesty, approachability, and grounded serenity, the system avoids dramatic drop shadows and heavy gloss. Depth is constructed through **tonal surface stacking** combined with **diffused herbal-tinted ambient glows**.
+
+### Elevation Scale
+1. **Base Layer (Canvas):** Warm Cream (`#F8F6F0`). Solid, restful backdrop.
+2. **Level 1 (Cards, Modules, Consultation Tiles):** Pure White (`#FFFFFF`) surface rested over the canvas, defined by a fine 1px structural stroke of Warm Sage Border (`#E5ECE6`). Shadow is negligible: `0 1px 3px rgba(45, 74, 62, 0.04)`.
+3. **Level 2 (Interactive Hover, Focus Cards):** Subtle lift using an organic forest tint: `0 8px 24px -4px rgba(45, 74, 62, 0.08)`. Border shifts smoothly to `#608066`.
+4. **Level 3 (Modals, Booking Sheets, Confidential Dialogs):** `#FFFFFF` container with `0 20px 40px -8px rgba(31, 54, 45, 0.16)`. Accompanied by a muted backdrop blur (`backdrop-filter: blur(6px)`) in deep forest green at 40% opacity (`rgba(31, 54, 45, 0.40)`).
+
+## Shapes
+
+### Form Language
+The visual corner treatment is set to **`2` (Rounded)**. This offers an organic, reassuring tactile softness without tipping into childish hyper-circular geometry.
+
+- **Base Components (Inputs, Regular Buttons, List Items):** `0.5rem` (`8px`).
+- **Containers & Content Cards (`rounded-lg`):** `1rem` (`16px`).
+- **Hero Highlights, Modals & Visual Banners (`rounded-xl`):** `1.5rem` (`24px`).
+- **Pills & Status Badges:** Fully rounded (`9999px`) to distinguish categorical metadata from actionable rectangular modules.
+
+## Components
+
+### Buttons
+- **Primary Button (e.g., "Jadwalkan Konseling", "Unduh Laporan BK"):**
+  - Background: `#2D4A3E` (Deep Forest Green).
+  - Label: `#FFFFFF`, `Plus Jakarta Sans` semi-bold (`label-lg`).
+  - Height: `44px` (desktop), `48px` (mobile for accessible tap target).
+  - Hover: Background shifts to `#1F362D` with subtle `translateY(-1px)`.
+- **Secondary / Soft Button (e.g., "Lihat Modul Karir"):**
+  - Background: `#EBF2EC` (Soft Sage Tint).
+  - Label & Icon: `#2D4A3E`.
+  - Border: 1px solid `#CFDED1`.
+  - Hover: Background shifts to `#DDE8DE`.
+- **Ghost / Tertiary Button:** Transparent background, text `#2D4A3E` with underline on hover.
+
+### Form Inputs & Textareas (Consultation Form & Reflection Notes)
+- Background: `#FFFFFF`.
+- Border: `1px solid #D6E0D8`.
+- Text: `#1A2821`.
+- Placeholder: `#7D8D83`.
+- Focus State: 1px solid `#2D4A3E` with an outer ring glow of `3px rgba(96, 128, 102, 0.25)`.
+- Helper Text: Sits below input in `12px` muted green-gray, explicitly stating confidentiality assurances (e.g., *"Informasi ini terlindungi kerahasiaan BK"*).
+
+### Chips & Badges
+- **Category Chips (Bidang Bimbingan):**
+  - *Pribadi:* Tinted lavender-sage `#EFF3F0` with text `#345241`.
+  - *Sosial:* Tinted soft mint `#E7EFEB` with text `#2D4A3E`.
+  - *Belajar:* Tinted warm amber-cream `#FAF4E6` with text `#7D5F18`.
+  - *Karir:* Tinted deep sage `#E5EDE7` with text `#2A4839`.
+- **Accreditation / Kurikulum Merdeka Badge:** Pill shape, border `1px solid #C29B38`, background `#FCF9EE`, text `#6E5517` with tertiary gold emblem dot.
+
+### Cards & Dossiers
+- **Service & Program Card:** White base `#FFFFFF`, 16px corner radius, interior padding `24px`. Top border features an optional subtle 3px accent line in `#608066` for active counseling tracks.
+- **Counselor Profile Card:** Spotlights Guru BK (Dewi Kumala Sari, S.Pd.) with a dual-tone background (warm beige card top transitioning to pure white contact bottom), displaying certification tags, NIP/credentials, and consultation hours.
+
+### Checkboxes & Radios
+- Size: `18px x 18px`.
+- Unchecked: White fill with `1.5px solid #A4B7A9`.
+- Checked: `#2D4A3E` fill with crisp white checkmark icon. Corner radius `4px` for checkbox, full circle for radio.
+
+### Specialized BK Components
+- **Confidentiality Seal Notice:** A warm sand-toned banner (`#F3EFE6`) featuring a lock icon in `#2D4A3E`, detailing the ethical code of counseling confidentiality (Asas Kerahasiaan BK).
+- **Session Booking Step Indicator:** Horizontal connected track utilizing sage rings for completed stages, deep forest solid circles for the active stage, and muted beige for pending steps.
+- **Student Reflection Journal Snippet:** Clean ruled-paper container layout with discreet motivational prompts grounded in student self-efficacy.
